@@ -3,6 +3,7 @@
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label)](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP/blob/main/LICENSE-BSD-3-Clause)
 [![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.ci)
 [![MDK-Middleware Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP/Test-MDK-Middleware-RefApps.yml?logo=arm&logoColor=0091bd&label=MDK-Middleware%20Build%20Test)](./.ci)
+[![Pack build](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP/pack.yml?logo=arm&logoColor=0091bd&label=Build%20pack)](https://github.com/Open-CMSIS-Pack/ST_B-U585I-IOT02A_BSP/tree/main/.github/workflows/pack.yml)
 
 # ST_B-U585I-IOT02A_BSP
 
